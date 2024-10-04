@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @noahvendrig
-- 👀 I’m interested in machine learning and web development
+- 👀 Interested in security and the cloud
 - 🌱 I’m currently learning Go
 - 📫 How to reach me: noahvendrig@gmail.com or contact me on noahvendrig.com
